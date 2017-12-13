@@ -1,9 +1,12 @@
 [submodule "vim-config"]
 	path = vim-config
 	url = https://github.com/morten-olsen/vim-config
+  branch = master
 [submodule "tmux-config"]
 	path = tmux-config
 	url = https://github.com/morten-olsen/tmux-config
+  branch = master
 [submodule "zsh-config"]
 	path = zsh-config
 	url = https://github.com/morten-olsen/zsh-config
+  branch = master
